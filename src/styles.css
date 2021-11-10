@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.startBtn,
+.stopBtn {
+  background-color: rgb(9, 113, 241);
+  color: white;
+  margin-right: 8px;
+  border-radius: 4px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-color: transparent;
+  font-weight: 800;
+}

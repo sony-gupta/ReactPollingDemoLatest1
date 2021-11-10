@@ -1,2 +1,2 @@
-# ReactPollingDemoLatest1
+# React-Polling-Demo
 Created with CodeSandbox
